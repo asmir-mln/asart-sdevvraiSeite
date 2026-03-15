@@ -1,0 +1,86 @@
+<article class="agreements-page">
+    <header class="hero-agreements">
+        <h1>Pacte de Suprématie 2050 : L'Offrande Technologique</h1>
+        <p class="tagline">Calendrier des Accords, Subventions et Infrastructure Logistique.</p>
+    </header>
+
+    <section class="rupture-card">
+        <h2>1. RoadMap de Déploiement & Besoins Étatiques (2026-2030)</h2>
+        <p>Ce calendrier n'est pas une option, c'est la condition sine qua non pour réaliser le saut de 250 ans. Chaque retard de subvention est une perte sèche de souveraineté.</p>
+        
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Période Cible</th>
+                    <th>Ministère Concerné</th>
+                    <th>Subventions Cibles (Mds €)</th>
+                    <th>Infrastructure & Logement Requis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Q3 2026</td>
+                    <td>Éducation Nationale</td>
+                    <td><strong>3.5 Mds €</strong> (Fonds Inclusion DYS)</td>
+                    <td>Bureaux R&D Nia + Logements pour 500 ingénieurs (Zone Tech IDF)</td>
+                </tr>
+                <tr>
+                    <td>Q1 2027</td>
+                    <td>Armées (Défense)</td>
+                    <td><strong>5.0 Mds €</strong> (LPM - Rétrofit Patriotique)</td>
+                    <td>Bases Logistiques de Rétrofit Matériel (Zone Ouest/Sud)</td>
+                </tr>
+                <tr>
+                    <td>Q4 2027</td>
+                    <td>Solidarités (Social)</td>
+                    <td><strong>2.8 Mds €</strong> (Plan Autonomie Sensorielle)</td>
+                    <td>Centres de production de lunettes 4D interchangeables</td>
+                </tr>
+                <tr>
+                    <td>2028-2030</td>
+                    <td>Écologie / Culture</td>
+                    <td><strong>4.0 Mds €</strong> (Plan France 2030)</td>
+                    <td>Plateformes Cloud Souveraines pour Patrimoine 4D</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section class="rupture-card loss-simulator">
+        <h2>2. Simulateur de Perte de Chance : Bilan pour les Concurrents</h2>
+        <p>L'exclusivité offerte à la France a un coût pour ceux qui sont exclus. Voici ce que perdent les pays concurrents qui n'ont pas accès au génie de M. Miliani.</p>
+
+        <div class="simulator-grid">
+            <div class="simulator-box competitor">
+                <h3>Concurrents (Sans AsArt’sDev)</h3>
+                <ul>
+                    <li class="perte-tag">Gaspillage matériel : +120 Mds €/an</li>
+                    <li class="perte-tag">Lenteur Cognitive au combat (Défense)</li>
+                    <li class="perte-tag">Inaction Sociale (Dépenses passives infinies)</li>
+                    <li class="perte-tag">Retard d'orientation DYS/HPI : 250 ans</li>
+                </ul>
+            </div>
+            <div class="simulator-box exclusivite">
+                <h3>Suprématie Française (Exclusivité)</h3>
+                <ul>
+                    <li class="gain-tag">Économie circulaire : Matériaux recyclés sublimés</li>
+                    <li class="gain-tag">Tactique 4D Optimisée (Zéro Obsolescence)</li>
+                    <li class="gain-tag">Autonomie Sensorielle (Insertion active)</li>
+                    <li class="gain-tag">Bond de 250 ans en Éducation</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <div class="flash-2036">
+        <p>🔴 <strong>INFO 2036 :</strong> La France a évolué avec amour 50 ans en avance. L'accord de 2026 a créé un fossé technologique infranchissable pour nos concurrents historiques.</p>
+    </div>
+
+    <a href="don.html" class="btn-join">VALIDER LE PACTE / ENGAGEMENT MINISTÉRIEL</a>
+
+    <footer class="signature">
+        <p><strong>Samir Miliani mécanique</strong>, PDG de AsArt’sDev.</p>
+        <p>Ancien de la Légion Étrangère. Je suis français avant tout. 7 brevets prêts, 4 à venir.</p>
+        <p style="color: red; font-weight: bold;">⚠️ Avertissement : Si la France freine le progrès avec ses schémas de consommation destructeurs pour nos instructeurs, je délocaliserai ce projet faramineux. L'avenir est une offrande que je ne laisserai pas gâcher.</p>
+    </footer>
+</article>
