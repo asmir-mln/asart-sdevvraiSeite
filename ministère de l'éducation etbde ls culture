@@ -1,0 +1,40 @@
+<article class="ministry-page">
+    <header class="hero-education">
+        <h1>ÉDUCATION : L'ÉRADICATION DU DÉCROCHAGE</h1>
+        <p class="tagline">Transformer le handicap en force industrielle d'ici 2050.</p>
+    </header>
+
+    <section class="content">
+        <h2>L'Innovation : Lecture et Navigation Augmentée</h2>
+        <p>Grâce à mon algorithme de prompts intelligents, les élèves dyslexiques, HPI ou HPE ne subissent plus le système. Ils le pilotent. Les lunettes adaptent l'information en temps réel pour une compréhension instantanée.</p>
+        
+        <div class="stats-grid">
+            <div class="stat-box loss">
+                <h3>Coût de l'Inaction</h3>
+                <ul>
+                    <li><strong>Retard scolaire :</strong> 250 ans de méthodes périmées</li>
+                    <li><strong>Décrochage :</strong> 1 enfant sur 5 en difficulté de lecture</li>
+                    <li><strong>Perte de talent :</strong> Des milliers de génies incompris gâchés</li>
+                </ul>
+            </div>
+            <div class="stat-box gain">
+                <h3>Le Bond Technologique</h3>
+                <ul>
+                    <li><strong>Inclusion :</strong> 100% d'accès aux supports numériques</li>
+                    <li><strong>Vitesse :</strong> Apprentissage accéléré par l'IA Nia</li>
+                    <li><strong>Avenir :</strong> 7 brevets au service de la jeunesse française</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <div class="flash-2036">
+        <p>🔴 <strong>INFO 2036 :</strong> La France est devenue la première puissance intellectuelle mondiale. L'illettrisme est un souvenir du passé.</p>
+    </div>
+
+    <a href="don.html" class="btn-join">PARTICIPER AU PROJET</a>
+
+    <footer class="signature">
+        <p>Signé : <strong>Samir Miliani</strong>. Inventeur incompris hier, moteur de la révolution industrielle aujourd'hui.</p>
+    </footer>
+</article>
