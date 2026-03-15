@@ -1,0 +1,33 @@
+<article class="ministry-page">
+    <h1>SOCIAL : LE NOUVEAU POUVOIR SENSORIEL</h1>
+    <p>Rendre la vue par le son, rendre l'ouïe par l'image. L'autonomie n'est plus un luxe, c'est un droit technologique.</p>
+
+    <div class="rupture-card">
+        <h3>L'Impact sur le Quotidien</h3>
+        <p>Les personnes aveugles entendent ce qu'elles ne voient pas. Les personnes sourdes lisent ce qu'elles n'entendent pas. Ce n'est pas de la science-fiction, c'est notre protocole déjà opérationnel.</p>
+        
+        <table>
+            <tr>
+                <th>Domaine</th>
+                <th>SANS AsArt’sDev</th>
+                <th>AVEC AsArt’sDev</th>
+            </tr>
+            <tr>
+                <td>Coût Social</td>
+                <td class="perte-tag">Dépenses passives infinies</td>
+                <td class="gain-tag">Autonomie et insertion active</td>
+            </tr>
+            <tr>
+                <td>Économie de santé</td>
+                <td class="perte-tag">Matériel obsolète et cher</td>
+                <td class="gain-tag">Rétrofit de matériaux recyclés</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="flash-2036">
+        <p>🔴 <strong>INFO 2036 :</strong> La France a évolué avec amour 50 ans en avance. L'inclusion n'est plus un mot, c'est une réalité codée.</p>
+    </div>
+
+    <a href="don.html" class="btn-join">FAIRE UN DON / DEVENIR ACTIONNAIRE</a>
+</article>
