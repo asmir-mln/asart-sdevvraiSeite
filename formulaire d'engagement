@@ -1,0 +1,24 @@
+<section class="container">
+    <h2>Devenir Acteur de la Suprématie 2050</h2>
+    <form class="rupture-card">
+        <label>Type de Partenariat :</label>
+        <select>
+            <option>Mécénat Patriotique</option>
+            <option>Partenariat Industriel</option>
+            <option>Subvention d'État</option>
+            <option>Actionnariat Majeur</option>
+        </select>
+        
+        <input type="text" placeholder="Nom / Prénom / Entreprise">
+        <input type="tel" placeholder="Numéro de Téléphone">
+        <textarea placeholder="Message pour Monsieur Miliani (Précisez votre offre logistique/subvention)"></textarea>
+        
+        <button type="submit" class="btn-rejoindre" style="border:none;">ACTUALISER LE PAIEMENT (STRIPE/PAYPAL)</button>
+    </form>
+</section>
+
+<footer class="footer-vision">
+    <p>Samir Miliani mécanique, PDG de la marque AsArt'sDev.</p>
+    <p>Je voulais de par mon patriotisme vous proposer un partenariat avec la France en exclusivité avant de proposer le progrès à tout votre pays de concurrents parce que j'ai fait la Légion étrangère, je suis français avant tout.</p>
+    <p><strong>Vision d'un génie incompris : 7 brevets prêts, 4 à venir. L'avenir est une offrande.</strong></p>
+</footer>
