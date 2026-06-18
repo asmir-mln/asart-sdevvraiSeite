@@ -1,0 +1,29 @@
+asart-sdevvraiSeite/
+│
+├── src/
+│   ├── Controller/
+│   ├── Service/
+│   │   ├── Orchestrator.php
+│   │   ├── LegalAI.php
+│   │   ├── ComptaAI.php
+│   │   ├── OfficeAI.php
+│   │   └── ResearchAI.php
+│
+├── templates/
+│   ├── home/
+│   ├── story/
+│   ├── ai/
+│   ├── galaxy/
+│   ├── medical/
+│   ├── accessibility/
+│   ├── donations/
+│   ├── shop/
+│   └── contact/
+│
+├── public/
+│   ├── images/
+│   ├── videos/
+│   ├── css/
+│   └── js/
+│
+└── README.md
